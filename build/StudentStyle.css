@@ -1,0 +1,14 @@
+.formButton {
+	padding-left:60%;
+}
+
+ .hidden { 
+	display:none; 
+ }
+ 
+ .footer{
+	text-align: center;
+	background: #252C34;
+	padding: 15px 0;
+	color: #566473;
+ }
